@@ -4,6 +4,7 @@ Python/Jupyter Notbook method:
   - uses sentinelsat library:
     https://github.com/sentinelsat/sentinelsat
     https://sentinelsat.readthedocs.io
+    https://sentinelsat.readthedocs.io/en/master/api_overview.html
     
   - Requires account on Copernicus Open Access Hub
     https://scihub.copernicus.eu/dhus/#/home
