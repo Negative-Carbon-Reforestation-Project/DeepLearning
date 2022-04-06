@@ -1,3 +1,10 @@
 Python/Jupyter Notbook method:
   https://towardsdatascience.com/satellite-imagery-access-and-analysis-in-python-jupyter-notebooks-387971ece84b
-  https://github.com/sentinelsat/sentinelsat
+  
+  - uses sentinelsat library:
+    https://github.com/sentinelsat/sentinelsat
+    https://sentinelsat.readthedocs.io
+    
+  - Requires account on Copernicus Open Access Hub
+    https://scihub.copernicus.eu/dhus/#/home
+  
