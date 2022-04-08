@@ -8,4 +8,8 @@ Python/Jupyter Notbook method:
     
   - Requires account on Copernicus Open Access Hub
     https://scihub.copernicus.eu/dhus/#/home
-  
+
+Serving ML models on Kubernetes
+  https://towardsdatascience.com/the-simplest-way-to-serve-your-ml-models-on-kubernetes-5323a380bf9f
+  - KServe
+    https://www.kubeflow.org/docs/external-add-ons/kserve/
